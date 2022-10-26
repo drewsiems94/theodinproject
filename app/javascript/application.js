@@ -32,4 +32,4 @@ const ReactRailsUJS = require('react_ujs');
 
 ReactRailsUJS.useContext(componentRequireContext);
 
-Turbo.session.drive = false;
+Turbo.session.drive = true;
